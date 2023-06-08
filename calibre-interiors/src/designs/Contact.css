@@ -1,0 +1,13 @@
+body {
+    background-image: url(../catalogs/catalog5.webp);
+    background-repeat: no-repeat;
+    background-size: 2500px;
+  }
+  
+  
+  .NavBar,
+  .Footer,
+  .QrCode {
+    background-color: inherit;
+  }
+  

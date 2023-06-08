@@ -1,0 +1,73 @@
+.services{
+    background-color: rgba(42, 42, 43, 0.781);
+    background-size: cover;
+    background-position: center;
+}
+  
+.scope-of-work{
+
+position: relative;
+background-repeat: no-repeat;
+margin-left: 120px;
+
+
+}
+.scope{
+  content: inherit;
+  position:relative;
+  color: white;
+}
+
+.services-content{
+  filter: blur(10px);
+  border-radius: 10px;
+  content: inherit;
+}
+.design-phases{
+  margin-right: 100px;
+}
+.wpb_wrapper {
+    margin-bottom: 20px;
+  }
+  
+  .wpb_text_column {
+    margin-bottom: 20px;
+  }
+  
+  h1.srv {
+    margin-left: 400px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 30px;
+
+  }
+  
+  h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
